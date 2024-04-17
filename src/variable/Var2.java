@@ -1,0 +1,19 @@
+package variable;
+
+public class Var2 {
+    public static void main(String[] args) {
+        int a;    //변수 선언 - 정수 타입
+        //" = " 는 오른쪽 값을 왼쪽에 대입한다는 뜻 (값 저장)
+        a = 20; //변수 초기화  - 선언한 변수에 처음으로 값을 대입하여 저장하는 것
+
+
+        System.out.println(a);
+        System.out.println(a);
+        System.out.println(a);
+
+        //변수선언방법
+        int b, c, d, e;
+
+
+    }
+}
