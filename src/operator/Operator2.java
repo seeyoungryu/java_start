@@ -29,6 +29,6 @@ public class Operator2 {
 //        boolean result2 = str1.equals("문자열1");//문자열 변수, 리터럴 비교
 //        boolean result3 = str1.equals(str2);//문자열 변수 비교
 
-
+        
     }
 }
